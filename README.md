@@ -1,2 +1,2 @@
 # manjaro-zsh
-Zsh configuration from 
+Zsh configuration from Manjaro.
